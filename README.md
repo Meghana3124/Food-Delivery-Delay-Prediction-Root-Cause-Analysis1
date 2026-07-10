@@ -182,9 +182,9 @@ merged_notebooks.ipynb
 
 ## 👩‍💻 Author
 
-KAVANA CHEKKERE VENKATESH
+MEGHANA NAGESH POOJARI
 Master's Student
-Machine Learning Project
+Data Analytics Project
 
 ---
 
